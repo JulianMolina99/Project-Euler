@@ -1,3 +1,7 @@
+/* 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+
+What is the smallest positive number that is evenly divisible by all of the numbers from 1 to number? */
+
 function smallestMult(number){
     let array = Array.from({length:number-1}, (v,i)=>{
         if(i==0){
