@@ -1,5 +1,5 @@
 # Project-Euler
-Repository containing the solutions to the euler project problems, the purpose of this project is to improve our programming skills in different languages as well as to strengthen our algorithmic thinking. The project has a total of 480 coding problems and covers all difficulty ranges, from simple problems to those requiring advanced understanding of chain-learning algorithms. I will add the solution of the problems gradually.
+Repository containing the solutions to the euler project problems, the purpose of this project is to improve our programming skills in different languages as well as to strengthen our algorithmic thinking. The project has a total of 796 coding problems and covers all difficulty ranges, from simple problems to those requiring advanced understanding of chain-learning algorithms. I will add the solution of the problems gradually.
 
 <center>
   
