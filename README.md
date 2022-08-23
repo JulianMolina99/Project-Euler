@@ -1,6 +1,8 @@
 # Project-Euler
 Repository containing the solutions to the euler project problems, the purpose of this project is to improve our programming skills in different languages as well as to strengthen our algorithmic thinking. The project has a total of 480 coding problems and covers all difficulty ranges, from simple problems to those requiring advanced understanding of chain-learning algorithms. I will add the solution of the problems gradually.
 
+<center>
+  
 | ID Problem | Name | Language |
 | :---: | :---: | :---: | 
 | 01 | Multiples of 3 and 5 | JavaScript |
@@ -9,3 +11,5 @@ Repository containing the solutions to the euler project problems, the purpose o
 | 10 | Summation of primes | JavaScript |
 | 11 | Largest product in a grid | JavaScript |
 | 13 | Large sum | JavaScript |
+  
+</center>
