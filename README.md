@@ -8,6 +8,7 @@ Repository containing the solutions to the euler project problems, the purpose o
 | 01 | Multiples of 3 and 5 | JavaScript |
 | 05 | Smallest multiple | JavaScript |
 | 06 | Sum square difference | JavaScript |
+| 08 | Largest product in a series | JavaScript |
 | 10 | Summation of primes | JavaScript |
 | 11 | Largest product in a grid | JavaScript |
 | 13 | Large sum | JavaScript |
