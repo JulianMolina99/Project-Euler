@@ -12,5 +12,6 @@ Repository containing the solutions to the euler project problems, the purpose o
 | 10 | Summation of primes | JavaScript |
 | 11 | Largest product in a grid | JavaScript |
 | 13 | Large sum | JavaScript |
+| 25 | 1000-digit Fibonacci number | JavaScript |
   
 </center>
