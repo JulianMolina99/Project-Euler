@@ -6,6 +6,7 @@ Repository containing the solutions to the euler project problems, the purpose o
 | ID Problem | Name | Language |
 | :---: | :---: | :---: | 
 | 01 | Multiples of 3 and 5 | JavaScript |
+| 02 | Even Fibonacci Numbers | JavaScript |
 | 05 | Smallest multiple | JavaScript |
 | 06 | Sum square difference | JavaScript |
 | 08 | Largest product in a series | JavaScript |
