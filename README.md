@@ -9,6 +9,7 @@ Repository containing the solutions to the euler project problems, the purpose o
 | 02 | Even Fibonacci Numbers | JavaScript |
 | 05 | Smallest multiple | JavaScript |
 | 06 | Sum square difference | JavaScript |
+| 07 | 10001st prime | JavaScript |
 | 08 | Largest product in a series | JavaScript |
 | 09 | Special Pythagorean triplet | JavaScript |
 | 10 | Summation of primes | JavaScript |
