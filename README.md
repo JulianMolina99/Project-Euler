@@ -5,16 +5,16 @@ Repository containing the solutions to the euler project problems, the purpose o
   
 | ID Problem | Name | Language |
 | :---: | :---: | :---: | 
-| 01 | Multiples of 3 and 5 | JavaScript |
-| 02 | Even Fibonacci Numbers | JavaScript |
-| 05 | Smallest multiple | JavaScript |
-| 06 | Sum square difference | JavaScript |
-| 07 | 10001st prime | JavaScript |
-| 08 | Largest product in a series | JavaScript |
-| 09 | Special Pythagorean triplet | JavaScript |
-| 10 | Summation of primes | JavaScript |
-| 11 | Largest product in a grid | JavaScript |
-| 13 | Large sum | JavaScript |
-| 25 | 1000-digit Fibonacci number | JavaScript |
+| 001 | Multiples of 3 and 5 | JavaScript |
+| 002 | Even Fibonacci Numbers | JavaScript |
+| 005 | Smallest multiple | JavaScript |
+| 006 | Sum square difference | JavaScript |
+| 007 | 10001st prime | JavaScript |
+| 008 | Largest product in a series | JavaScript |
+| 009 | Special Pythagorean triplet | JavaScript |
+| 010 | Summation of primes | JavaScript |
+| 011 | Largest product in a grid | JavaScript |
+| 013 | Large sum | JavaScript |
+| 025 | 1000-digit Fibonacci number | JavaScript |
   
 </center>
