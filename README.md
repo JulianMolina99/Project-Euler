@@ -15,6 +15,12 @@ Repository containing the solutions to the euler project problems, the purpose o
 | 010 | Summation of primes | JavaScript |
 | 011 | Largest product in a grid | JavaScript |
 | 013 | Large sum | JavaScript |
-| 025 | 1000-digit Fibonacci number | JavaScript |
+| 014 | Longest Collatz sequence | JavaScript |
+| 015 | Lattice paths | JavaScript |
+| 016 | Power digit sum | JavaScript |
+| 022 | Names scores | JavaScript |
+| 036 | Double-base palindromes | JavaScript |
+| 045 | Trinagular, pentagonal, and hexagonal | JavaScript |
+| 052 | Permuted multiples | JavaScript |
   
 </center>
